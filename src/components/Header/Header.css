@@ -1,0 +1,12 @@
+.Header {
+    min-height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #550613db;
+    color: black;
+    width: 100%;
+}
+.Header h1{
+    font-size: 44px;
+}
